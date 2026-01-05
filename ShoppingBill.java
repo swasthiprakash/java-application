@@ -1,5 +1,3 @@
-package java_projects;
-
 public class ShoppingBill {
 	public static void main(String args[]) {
 		
